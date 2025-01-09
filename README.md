@@ -1,5 +1,6 @@
 # Optimizing-Supply-Chain-Efficiency-Using-Data-Analytics-and-AI-for-a-Beauty-Startup
 
+
 ## Project Description
 This project focuses on optimizing supply chain efficiency for a beauty startup by addressing three critical business challenges:
 1. **Shipment Delays**: Reducing transit times and improving logistics operations.
@@ -9,7 +10,7 @@ This project focuses on optimizing supply chain efficiency for a beauty startup 
 Leveraging advanced data analytics, machine learning models, and visualization tools, this project provides actionable insights to enhance operational efficiency, reduce costs, and improve decision-making.
 
 ---
-
+## Dashboard Link : https://shorturl.at/dzhdb
 ## Key Features
 - **Shipment Delay Prediction**: Used Random Forest Regressor to predict lead times based on shipment type, transportation method, and historical delays.
 - **Inventory Clustering**: Applied KMeans Clustering to identify regions with overstock or stockout risks, enabling better inventory distribution.
@@ -57,6 +58,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Special thanks to our team members and mentors for their support and guidance throughout this project.
 
 ---
-
-## Links
-- https://public.tableau.com/views/EISFINALPROJECTGROUP/LeadTimePredictionvs_Actual?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link(#)
